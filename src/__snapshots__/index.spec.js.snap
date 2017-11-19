@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return a random scramble when asking for a eight-move solve 1`] = `"B D2 U2 F' D2 F2 D2 R2 D2 B' F' D B L' D F R B U' R2"`;
+
+exports[`should return a random scramble when asking for a five-move solve 1`] = `"U2 R2 B R2 B D2 U2 R2 F' L2 B R' D' F2 R' D R B2 D2 L' B2"`;
+
+exports[`should return a random scramble when asking for a four-move solve 1`] = `"D2 B2 R2 B' U2 F L2 F2 U2 F' L' D2 B U' B2 R D' F2 U B2"`;
+
+exports[`should return a random scramble when asking for a one-move solve 1`] = `"F2 D' F2 U2 L' U' R2 F' R2 D' B' R2 U2 B U2 B' L2 D2 B U2 B'"`;
+
+exports[`should return a random scramble when asking for a seven-move solve 1`] = `"L2 F2 L D2 R' D2 L2 F2 R' D2 R2 F' L B R2 D2 R' U' F' U'"`;
+
+exports[`should return a random scramble when asking for a six-move solve 1`] = `"F U2 L' D B' R' D' B2 D F2 R2 U2 D2 B D2 F D2 R2 L2 B2"`;
+
+exports[`should return a random scramble when asking for a three-move solve 1`] = `"R L2 B2 U R' F R2 F U L2 U F2 L2 D B2 D F2 R2 L2"`;
+
+exports[`should return a random scramble when asking for a two-move solve 1`] = `"R2 U2 L2 R2 B' D2 R2 D2 R2 B' F R B2 U' R' B' U B F' R'"`;

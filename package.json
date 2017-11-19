@@ -1,0 +1,44 @@
+{
+  "name": "rubiks-white-cross-trainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest",
+    "test.watch": "jest --watch",
+    "test.cover": "jest --coverage",
+    "lint": "eslint src/**.js",
+    "validate": "npm run test.cover && npm run lint",
+    "afterSuccess": "codecov"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "codecov": "^3.0.0",
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest": "^21.2.1",
+    "prettier": "^1.8.2",
+    "webpack": "^3.8.1"
+  },
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    }
+  },
+  "dependencies": {
+    "random-number-in-range": "^1.0.2"
+  }
+}
