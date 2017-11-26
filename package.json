@@ -1,5 +1,5 @@
 {
-  "name": "rubiks-white-cross-trainer",
+  "name": "rubiks-cross-trainer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,9 +12,16 @@
     "validate": "npm run test.cover && npm run lint",
     "afterSuccess": "codecov"
   },
-  "keywords": [],
+  "keywords": [
+    "rubik",
+    "rubiks",
+    "cube",
+    "white",
+    "cross",
+    "trainer"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
