@@ -3,7 +3,7 @@
 [![Codecov branch](https://img.shields.io/codecov/c/github/newyork-anthonyng/rubiks-cross-trainer/master.svg)]()
 
 <h1 align="center">
-  <img src="./OTHER/logo.png" alt="Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/newyork-anthonyng/rubiks-cross-trainer/master/OTHER/logo.png" alt="Logo" width="50" />
   <br>
   Rubik's Cross Trainer 🏋️
   <br>
