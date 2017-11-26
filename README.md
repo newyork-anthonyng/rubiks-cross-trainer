@@ -1,3 +1,7 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![Travis build status](https://travis-ci.org/newyork-anthonyng/rubiks-cross-trainer.svg?branch=master)
+[![Codecov branch](https://img.shields.io/codecov/c/github/newyork-anthonyng/rubiks-cross-trainer/master.svg)]()
+
 <h1 align="center">
   <img src="./OTHER/logo.png" alt="Logo" width="50" />
   <br>
