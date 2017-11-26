@@ -1,15 +1,17 @@
 {
   "name": "rubiks-cross-trainer",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.2",
+  "files": ["dist"],
+  "description": "A JavaScript library that gives you Rubiks cube scrambles to practice forming your cross.",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack",
+    "build.prod": "webpack -p",
     "test": "jest",
     "test.watch": "jest --watch",
     "test.cover": "jest --coverage",
     "lint": "eslint src/**.js",
-    "validate": "npm run test.cover && npm run lint",
+    "validate": "npm run test.cover && npm run lint && npm run build.prod",
     "afterSuccess": "codecov"
   },
   "keywords": [
