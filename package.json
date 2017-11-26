@@ -1,7 +1,9 @@
 {
   "name": "rubiks-cross-trainer",
-  "version": "1.0.2",
-  "files": ["dist"],
+  "version": "1.0.3",
+  "files": [
+    "dist"
+  ],
   "description": "A JavaScript library that gives you Rubiks cube scrambles to practice forming your cross.",
   "main": "dist/index.js",
   "scripts": {
