@@ -10,6 +10,11 @@
 </h1>
 <p align="center">A JavaScript library that gives you Rubiks cube scrambles to practice forming your cross.</p>
 
+# Getting started
+```shell
+npm install --save rubiks-cross-trainer
+```
+
 # Why?
 Forming the cross on your Rubik's Cube is the first step in [CFOP](https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/). It should never take more than [8 moves](https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/white-cross/) to form your cross, and this library gives you a chance to practice at your own comfort.
 
