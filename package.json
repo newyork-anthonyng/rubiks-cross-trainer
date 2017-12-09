@@ -24,7 +24,7 @@
     "cross",
     "trainer"
   ],
-  "author": "",
+  "author": "Anthony Ng <newyork.anthonyng@gmail.com> (http://anthonyng.me)",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
