@@ -1,6 +1,6 @@
 {
   "name": "rubiks-cross-trainer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "files": [
     "dist"
   ],
@@ -25,6 +25,13 @@
     "trainer"
   ],
   "author": "Anthony Ng <newyork.anthonyng@gmail.com> (http://anthonyng.me)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newyork-anthonyng/rubiks-cross-trainer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newyork-anthonyng/rubiks-cross-trainer/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
