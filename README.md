@@ -2,6 +2,7 @@
 [![Codecov branch][codecov-badge]][codecov]
 [![npm][npm-badge]][npm-version]
 [![downloads][downloads-badge]][npmcharts]
+[![MIT License][license-badge]][license]
 
 [![gzip size][gzip-badge]][unpkg]
 [![size][size-badge]][unpkg]
@@ -53,6 +54,8 @@ This JavaScript library was inspired by this [Reddit thread](https://www.reddit.
 [code-climate]: https://codeclimate.com/github/newyork-anthonyng/rubiks-cross-trainer/maintainability
 [code-climate-badge]: https://api.codeclimate.com/v1/badges/3cfb50c8fd78d593ddba/maintainability
 [downloads-badge]: https://img.shields.io/npm/dm/rubiks-cross-trainer.svg?style=flat-square
+[license]: https://github.com/newyork-anthonyng/rubiks-cross-trainer/blob/master/LICENSE
+[license-badge]: https://img.shields.io/npm/l/rubiks-cross-trainer.svg?style=flat-square
 [npmcharts]: https://npmcharts.com/compare/rubiks-cross-trainer
 [pull-request-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [npm-version]:https://www.npmjs.com/package/rubiks-cross-trainer
