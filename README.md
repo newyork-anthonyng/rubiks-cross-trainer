@@ -1,7 +1,13 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![Travis build status](https://travis-ci.org/newyork-anthonyng/rubiks-cross-trainer.svg?branch=master)
-[![Codecov branch](https://img.shields.io/codecov/c/github/newyork-anthonyng/rubiks-cross-trainer/master.svg)](https://codecov.io/gh/newyork-anthonyng/rubiks-cross-trainer/branch/master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/3cfb50c8fd78d593ddba/maintainability)](https://codeclimate.com/github/newyork-anthonyng/rubiks-cross-trainer/maintainability)
+[![Travis build status][travis-badge]][travis-build]
+[![Codecov branch][codecov-badge]][codecov]
+[![npm][npm-badge]][npm-version]
+[![downloads][downloads-badge]][npmcharts]
+
+[![gzip size][gzip-badge]][unpkg]
+[![size][size-badge]][unpkg]
+
+[![Maintainability][code-climate-badge]][code-climate]
+[![PRs Welcome][pull-request-badge]](http://makeapullrequest.com)
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/newyork-anthonyng/rubiks-cross-trainer/master/OTHER/logo.png" alt="Logo" width="50" />
@@ -41,3 +47,18 @@ console.log(moreThanEightMoves);
 
 # Inspiration
 This JavaScript library was inspired by this [Reddit thread](https://www.reddit.com/r/Cubers/comments/30ld5k/cfop_a_tool_ive_made_for_beginners_to_perfect/).
+
+[codecov]: https://codecov.io/gh/newyork-anthonyng/rubiks-cross-trainer/branch/master
+[codecov-badge]: https://img.shields.io/codecov/c/github/newyork-anthonyng/rubiks-cross-trainer/master.svg
+[code-climate]: https://codeclimate.com/github/newyork-anthonyng/rubiks-cross-trainer/maintainability
+[code-climate-badge]: https://api.codeclimate.com/v1/badges/3cfb50c8fd78d593ddba/maintainability
+[downloads-badge]: https://img.shields.io/npm/dm/rubiks-cross-trainer.svg?style=flat-square
+[npmcharts]: https://npmcharts.com/compare/rubiks-cross-trainer
+[pull-request-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+[npm-version]:https://www.npmjs.com/package/rubiks-cross-trainer
+[npm-badge]: https://img.shields.io/npm/v/rubiks-cross-trainer.svg?style=flat-square
+[travis-badge]:https://travis-ci.org/newyork-anthonyng/rubiks-cross-trainer.svg?branch=master
+[travis-build]: https://travis-ci.org/newyork-anthonyng/rubiks-cross-trainer
+[gzip-badge]: http://img.badgesize.io/https://unpkg.com/rubiks-cross-trainer?compression=gzip&label=gzip%20size&style=flat-square
+[size-badge]: http://img.badgesize.io/https://unpkg.com/rubiks-cross-trainer?label=size&style=flat-square
+[unpkg]: https://unpkg.com/rubiks-cross-trainer
